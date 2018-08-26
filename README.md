@@ -7,7 +7,7 @@ This is a beginner tutorial of Travis CI for Node projects.
 Fork the repo (If you don't know what is fork, [click here](https://guides.github.com/activities/forking/)). Then, clone your fork into disk.
 
 ```bash
-$ git clone git@github.com:[your_username]/travis-ci-demo.git
+$ git clone git://github.com/[your_username]/travis-ci-demo.git
 ```
 
 **Step 2**
